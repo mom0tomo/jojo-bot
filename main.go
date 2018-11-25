@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"./keys"
+	"github.com/mom0tomo/jojo-bot/keys"
 )
 
 func main() {
